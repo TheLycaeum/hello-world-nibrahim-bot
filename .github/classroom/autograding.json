@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test",
+      "setup": "",
+      "run": "/usr/bin/bash setup.sh ",
+      "input": "",
+      "output": "Enter a number I got 4",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
